@@ -99,4 +99,30 @@ ul li a:hover{
     text-align: justify;
     color: white;
 }
-
+footer{
+    margin-top: 50px;
+    width: 100%;
+    height: 180px;
+    background-image: linear-gradient(#010B26,#5E1A31);
+}
+footer h1{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: white;
+}
+footer a{
+    width: 300px;
+    text-decoration: none;
+    margin-left: 200px;
+    border: 1px solid white;
+    border-radius:15px;
+    padding: 19px; 
+    color: white;
+    font-size: 20px;
+}
+footer p{
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
